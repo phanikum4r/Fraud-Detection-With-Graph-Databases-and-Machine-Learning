@@ -4,7 +4,7 @@ This project was carried out as part of the CSE 573: Semantic Web Mining course 
 # Folder Structure
 - Code: Contains the Python notebook files for execution and cypher file.
     - Data_Preparation_for_Visualizations.ipynb: File for getting visualizations.
-    - fraud_detection.ipynb: Script to run Algorithms using intrinsic Graph features.
+    - fraud_detection.ipynb: Script to run Algorithms using intrinsic features.
     - fraud_detection_graph_db.ipynb: Script to run Algorithms using Network features of the Graph.
     - graph_db.cyp: Neo4j queries for creating Graph model.    
 - Data: Contains the dataset required for execution.
