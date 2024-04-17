@@ -1,5 +1,5 @@
 # Fraud-Detection-With-Graph-Databases-and-Machine-Learning
-This project was carried out as part of the CSE 573: Semantic Wwb Mining course for the Spring 2024 semester at ASU.
+This project was carried out as part of the CSE 573: Semantic Web Mining course for the Spring 2024 semester at ASU.
 
 # Folder Structure
 - Code: Contains the Python notebook files for execution and cypher file.
